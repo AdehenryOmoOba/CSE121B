@@ -30,7 +30,7 @@ async function getJoke(filter) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "bb4467594emshfbec6589d11288ep10463ejsnba6e65514b71",
+      "X-RapidAPI-Key": "11652434a6msh702a9e1926760b1p124039jsnd3d45c267759",
       "X-RapidAPI-Host": "world-of-jokes1.p.rapidapi.com",
     },
   };
